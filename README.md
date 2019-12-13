@@ -39,3 +39,5 @@ The default functionality from word2vec is also available from the command line 
 
 Experimental functionality on doc2vec can be found in this other example:
 [doc2vec](http://nbviewer.ipython.org/urls/raw.github.com/danielfrg/word2vec/master/examples/doc2vec.ipynb)
+
+zd
